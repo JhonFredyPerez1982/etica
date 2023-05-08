@@ -86,9 +86,11 @@ h3{
     text-align: end;
 }
 .escudo{ 
+
     position: absolute;
     top:  240px;
     left:  1100px;
+    background: url("imagenes/escudo.png");
     
 } .escudo:hover{
     transform: scale(1.7);
